@@ -5,13 +5,10 @@ This repository contains a simple command-line implementation of the classic Tic
 ## Images
 
 ![Win](/img/game-win.gif "Win")
- <p align="center"> Win </p>
 
 ![Incorrect movement](/img/game-incorrect-movement.gif "Incorrect movement")
- <p align="center"> Incorrect movement </p>
 
 ![Draw](/img/game-draw.gif "Draw")
- <p align="center"> Draw </p>
 
 ## Game Description
 
