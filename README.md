@@ -50,7 +50,7 @@ This Tic-Tac-Toe game has no external dependencies and can be compiled and run o
 
 ## Contributing
 
-This project was made by me (Marcelo) and my friend [Vitor Hugo](https.github.com/VitorHugoMoraisDias).
+This project was made by me (Marcelo) and my friend [Vitor Hugo](https://github.com/VitorHugoMoraisDias).
 
 Contributions to this project are welcome. If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
 
