@@ -15,7 +15,7 @@ This repository contains a simple command-line implementation of the classic Tic
 
 ## Game Description
 
-Tic-Tac-Toe, also known as Noughts and Crosses, is a two-player game played on a 3x3 grid. The players take turns marking spaces on the grid with their respective symbols (usually 'X' and 'O') with the goal of getting three of their symbols in a horizontal, vertical, or diagonal row.
+Tic-Tac-Toe, is a two-player game played on a 3x3 grid. The players take turns marking spaces on the grid with their respective symbols (usually 'X' and 'O') with the goal of getting three of their symbols in a horizontal, vertical, or diagonal row.
 
 The game features:
 
