@@ -53,7 +53,7 @@ int main(void)
 
             printf("\n Jogador %d (%c, movimento %d)\n",
                    player + 1, player_icon[player], game_movement_count);
-            printf("\n Insira as coordenadas (vertical e horizontal): \n");
+            printf("\n Insira as coordenadas (horizontal e vertical): \n");
 
             input_count = scanf("%d%d", &y_input, &x_input);
             y_input--;
@@ -90,7 +90,7 @@ int main(void)
                 printf("\n Sem sobrescrever!\n");
                 break;
             default:
-                printf("\n Erro! Caso não previsto.\n");
+                printf("\n Erro! Caso nao previsto.\n");
                 finish();
             }
 
@@ -99,7 +99,7 @@ int main(void)
 
         for (;;)
         {
-            printf("\n\n Deseja jogar novamente? (Y)- sim (N)- Não\n\n");
+            printf("\n\n Deseja jogar novamente? (Y)- sim (N)- Nao\n\n");
             scanf(" %c", &try_again);
             try_again = tolower(try_again);
 
