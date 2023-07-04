@@ -28,7 +28,7 @@ To run the game, follow these steps:
 1. Clone the repository:
 
 ```shell
-git clone https://github.com/your-username/tic-tac-toe.git
+git clone https://github.com/MarceloH1122/tic-tac-toe-c.git
 ```
 
 2. Compile the source code using a C compiler:
