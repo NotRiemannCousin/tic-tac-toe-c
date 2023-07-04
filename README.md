@@ -47,8 +47,6 @@ gcc main.c -o tic-tac-toe
 ./tic-tac-toe
 ```
 
-4. Follow the on-screen instructions to play the game.
-
 ## Dependencies
 
 This Tic-Tac-Toe game has no external dependencies and can be compiled and run on any system with a C compiler.
